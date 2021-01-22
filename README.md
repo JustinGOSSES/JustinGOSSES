@@ -12,7 +12,7 @@ hi :wave:, I'm Justin!
 
 I currently work as a NASA :rocket: contractor wearing many hats :tophat: Data Scientist, Software Engineering, and Product Management.
 
-Most of repos on here are side projects. Geoscience is a dominant trend in these repos, because it is an area where I have a lot of domain knowledge. However, I don't use it in my day job, so it makes for a nice dividing line between work & side projects.
+Most of the repos on here are side projects. Geoscience is a dominant trend in these repos, because it is an area where I have a lot of domain knowledge. However, I don't use it in my day job, so it makes for a nice dividing line between work & side projects.
 
 🔭 Currently, I’m working on updates to these side projects that fill a missing gaps in working with a certain kind of scientific data on the web:
 - [`wellio`](https://github.com/agile-geoscience/welly) &mdash; library for converting well logs in LAS 2.0 format to JSON
