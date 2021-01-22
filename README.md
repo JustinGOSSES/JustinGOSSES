@@ -10,15 +10,15 @@
 
 hi :wave:, I'm Justin! 
 
-I currently work as a NASA :rocket: contractor and wear Data Scientist, Software Engineering, and Product Management hats. :tophat:
+I currently work as a NASA :rocket: contractor wearing many hats :tophat: Data Scientist, Software Engineering, and Product Management.
 
 Most of repos on here are side projects. Geoscience is a dominant trend in these repos, because it is an area where I have a lot of domain knowledge. However, I don't use it in my day job, so it makes for a nice dividing line between work & side projects.
 
-- 🔭 Currently, I’m working on updates to these side projects that fill a missing gaps in working with a certain kind of scientific data on the web:
+🔭 Currently, I’m working on updates to these side projects that fill a missing gaps in working with a certain kind of scientific data on the web:
 - [`wellio`](https://github.com/agile-geoscience/welly) &mdash; library for converting well logs in LAS 2.0 format to JSON
 - [`wellioviz`](https://github.com/JustinGOSSES/wellioviz) &mdash; library for visualizing well logs on the web
 
-- 🌱 After being on my "to-do" list for years, I have also just started to learn <a href="https://observablehq.com/@justingosses/svg-rectangles">generative art</a> on <a href="https://observablehq.com/">Observable</a>. 
+🌱 After being on my "to-do" list for years, I have also just started to learn <a href="https://observablehq.com/@justingosses/svg-rectangles">generative art</a> on <a href="https://observablehq.com/">Observable</a>. 
 
 Learn more at [justingossses.com](https://justingosses.com)
 
