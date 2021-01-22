@@ -7,9 +7,9 @@
 
 hi :wave:, I'm Justin! 
 
-I work at NASA as a contractor and wear Data Scientist, Software Engineering, and Program Management hats. ::hat
+I work as a NASA :rocket: contractor and wear Data Scientist, Software Engineering, and Program Management hats. :tophat:
 
-INTRO
+
 
 Learn more about me at [justingossses.com](https://justingosses.com)
 
