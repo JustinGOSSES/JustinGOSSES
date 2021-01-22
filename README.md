@@ -7,20 +7,22 @@
 <br />
 <br />
 
-hi :wave:, I'm Bane! I'm an R&D Engineer [@Kitware](https://github.com/Kitware) working at the intersection of geoscience, visualization, and data analytics
+hi :wave:, I'm Justni! 
 
-I'm a geophysicist/hydrologist by training and I've found my niche in open-source software development. Check out the following pinned projects to see some of the work I am most eager to share!
+I'm an __ working at __
 
-Learn more about me at [banesullivan.com/about](https://banesullivan.com/about.html)
+INTRO
+
+Learn more about me at [justingossses.com](https://justingosses.com)
 
 <br />
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=banesullivan&hide=stars&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinGosses&hide=stars&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banesullivan&hide=Jupyter%20Notebook&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinGosses&hide=Jupyter%20Notebook&layout=compact" />
 </a>
 
 
