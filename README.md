@@ -7,7 +7,7 @@
 
 hi :wave:, I'm Justin! 
 
-I'm an __ working at __
+I work at NASA as a contractor and wear Data Scientist, Software Engineering, and Program Management hats. ::hat
 
 INTRO
 
