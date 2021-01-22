@@ -19,9 +19,11 @@ Learn more about me at [justingossses.com](https://justingosses.com)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JustinGosses&hide=stars&show_icons=true&count_private=true" />
 </a>
+<!--
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustinGosses&hide=Jupyter%20Notebook&layout=compact" />
 </a>
+-->
 
 
 <!--
