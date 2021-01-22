@@ -18,7 +18,7 @@ Most of the repos on here are side projects. Geoscience is a dominant trend in t
 - [`wellio`](https://github.com/agile-geoscience/welly) &mdash; library for converting well logs in LAS 2.0 format to JSON
 - [`wellioviz`](https://github.com/JustinGOSSES/wellioviz) &mdash; library for visualizing well logs on the web
 
-🌱 After being on my "to-do" list for years, I have also just started to learn <a href="https://observablehq.com/@justingosses/svg-rectangles">generative art</a> on <a href="https://observablehq.com/">Observable</a>. 
+🌱 After being on my "to-do" list for years, I have also just started to learn <a href="https://observablehq.com/@justingosses/svg-rectangles">generative art</a> on <a href="https://observablehq.com/">Observable</a>. And no, what you'll find at that link is not any good and that's okay.
 
 💬 Ask me for side projects ideas. I have way too many and love for things to suddenly exist that I think should exist.
 
