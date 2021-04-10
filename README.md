@@ -10,7 +10,7 @@
 
 hi :wave:, I'm Justin! 
 
-I currently work as a NASA :rocket: contractor wearing many hats :tophat: Data Scientist, Software Engineering, and Product Management.
+I currently work as a NASA :rocket: contractor wearing many hats :tophat: Data Scientist, Software Engineer, and Technical Program Manager.
 
 Most of the repos on here are side projects. Geoscience is a dominant trend in these repos, because it is an area where I have a lot of domain knowledge. However, I don't use it in my day job, so it makes for a nice dividing line between work & side projects.
 
