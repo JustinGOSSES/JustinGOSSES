@@ -22,7 +22,7 @@ Most of the repos on here are side projects. Geoscience is a dominant trend in t
 
 💬 Ask me for side projects ideas. I have <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/README.md">way too many</a> and love for things to suddenly exist that I think should exist.
 
-Learn more at [justingossses.com](https://justingosses.com)
+More information at [justingossses.com](https://justingosses.com)
 
 <br />
 <br />
