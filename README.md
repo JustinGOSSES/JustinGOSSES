@@ -20,7 +20,7 @@ Most of the repos on here are side projects. Geoscience is a dominant trend in t
 
 🌱 After being on my "to-do" list for years, I have just started to learn <a href="https://observablehq.com/@justingosses/svg-rectangles">generative art</a> on <a href="https://observablehq.com/">Observable</a>. And no, what you'll find at that link is not any good and that's okay.
 
-💬 Ask me for side projects ideas. I have way too many and love for things to suddenly exist that I think should exist.
+💬 Ask me for side projects ideas. I have <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/README.md">way too many</> and love for things to suddenly exist that I think should exist.
 
 Learn more at [justingossses.com](https://justingosses.com)
 
