@@ -20,6 +20,8 @@ Most of the repos on here are side projects. Geoscience is a dominant trend in t
 - [`wellio`](https://github.com/JustinGOSSES/wellio.js) &mdash; library for converting well logs in LAS 2.0 format to JSON
 - [`wellioviz`](https://github.com/JustinGOSSES/wellioviz) &mdash; library for visualizing well logs on the web
 
+🕸️ I'm also working on a template repository that can be pointed at any Awsome List via a config file and generate visualizations that help visualize the implicit community of developers in the Awesome List.
+
 <!-- 🌱 After being on my "to-do" list for years, I have just started to learn <a href="https://observablehq.com/@justingosses/svg-rectangles">generative art</a> on <a href="https://observablehq.com/">Observable</a>. And no, what you'll find at that link is not any good and that's okay. -->
 
 💬 Ask me for side projects ideas. I have <a href="https://github.com/JustinGOSSES/sideproject_planning/blob/master/README.md">way too many</a> and love for things to suddenly exist that I think should exist.
