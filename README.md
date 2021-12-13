@@ -10,8 +10,10 @@
 
 hi :wave:, I'm Justin! 
 
-I currently work as a NASA :rocket: contractor wearing many hats :tophat: Data Scientist, Software Engineer, and Technical Program Manager.
+I have professional interests across 📊 data visualization, natural language processing, speech-to-text, geoscience, open data, open source, and inner source.
 
+<!-- I currently work as a NASA :rocket: contractor wearing many hats :tophat: Data Scientist, Software Engineer, and Technical Program Manager.
+ -->
 Most of the repos on here are side projects. Geoscience is a dominant trend in these repos, because it is an area where I have a lot of domain knowledge. However, I don't use it in my day job, so it makes for a nice dividing line between work & side projects.
 
 🔭 Currently, I’m working on updates to the side projects below that fill a missing gap in working with a certain kind of scientific data on the web:
