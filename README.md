@@ -10,7 +10,7 @@
 
 hi :wave:, I'm Justin! 
 
-I have professional interests across 📊 data visualization, natural language processing, speech-to-text, geoscience, open data, open source, and inner source.
+I have professional interests across 📊 data visualization, 📝 natural language processing, 🗣️ speech-to-text, ⚒ geoscience, 📂 open data, 💻 open source, and 🏢inner source.
 
 <!-- I currently work as a NASA :rocket: contractor wearing many hats :tophat: Data Scientist, Software Engineer, and Technical Program Manager.
  -->
