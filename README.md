@@ -12,7 +12,7 @@ hi :wave:, I'm Justin!
 
 I have professional interests across 📊 data visualization, 📝 natural language processing, 🗣️ speech-to-text, ⚒ geoscience, 📂 open data, 💻 open source, and 🏢inner source. Previously, I've worked Data Scientist, Software Engineer, and Technical Program Manager roles as a NASA contractor and before that as Geoscientist for BP.
 
-<!-- I currently work as a NASA :rocket: contractor wearing many hats :tophat: Data Scientist, Software Engineer, and Technical Program Manager.
+<!-- I currently work as a NASA :rocket: contractor wearing many hats :tophat: Data Scientist, Software Engineer, and Technical Program Manager. Check out <a href="https://github.com/JustinGOSSES/nasa-contractor-jobs-information">this repo</a> with some things I've told people multiple times about finding a NASA contractor job.
  -->
 Most of the repos on here are side projects. Geoscience is a dominant trend in these repos, because it is an area where I have a lot of domain knowledge. However, I don't use it in my day job, so it makes for a nice dividing line between work & side projects.
 
