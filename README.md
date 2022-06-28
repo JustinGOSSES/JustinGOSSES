@@ -20,7 +20,7 @@ Currently, I’m working on updates to the side projects below that 🔭 fill a 
 - [`wellio`](https://github.com/JustinGOSSES/wellio.js) &mdash; library for converting well logs in LAS 2.0 format to JSON
 - [`wellioviz`](https://github.com/JustinGOSSES/wellioviz) &mdash; library for visualizing well logs on the web
 
-I'm also working on awesome-list-visual-explorer-template, a <a href="https://github.com/JustinGOSSES/awsome-list-visual-explorer-template">template repository</a> that can be pointed at any Awsome List via a config file and generate visualizations that help visualize the implicit 🕸️ community of developers in the Awesome List.
+I'm also working on awesome-list-visual-explorer-template, a <a href="https://github.com/JustinGOSSES/awesome-list-visual-explorer-template">template repository</a> that can be pointed at any Awsome List via a config file and generate visualizations that help visualize the implicit 🕸️ community of developers in the Awesome List.
 
 <!-- 🌱 After being on my "to-do" list for years, I have just started to learn <a href="https://observablehq.com/@justingosses/svg-rectangles">generative art</a> on <a href="https://observablehq.com/">Observable</a>. And no, what you'll find at that link is not any good and that's okay. -->
 
