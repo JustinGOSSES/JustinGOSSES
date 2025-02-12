@@ -1,7 +1,7 @@
 [<img align="left" alt="http://justingosses.com/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://justingosses.com/)
 [<img align="left" alt="banesullivan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/JustinGinHou)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/justingosses/)
-[<img align="left" alt="codeSTACKr | Medium" width="22px" src="[https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.RRQM4etf6NDK7XSSKYc8ygHaHa%26pid%3DApi&f=1](https://img.icons8.com/?size=100&id=110611&format=png&color=000000)" />](https://medium.com/@justinGOSSES)
+[<img align="left" alt="codeSTACKr | Medium" width="22px" src="[https://www.svgrepo.com/download/512457/medium-149.svg](https://img.icons8.com/?size=100&id=110611&format=png&color=000000)" />](https://medium.com/@justinGOSSES)
 
 
 
