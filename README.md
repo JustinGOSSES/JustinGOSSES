@@ -2,7 +2,7 @@
 [<img align="left" alt="banesullivan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/JustinGinHou)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/justingosses/)
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@justinGOSSES)
-[<img align="left" alt="codeSTACKr | Bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bluesky.svg" />](https://bsky.app/profile/justingosses.github.io)
+[<img align="left" alt="codeSTACKr | Bluesky" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/bluesky.svg" />](https://bsky.app/profile/justingosses.github.io)
 
 
 
