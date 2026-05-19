@@ -11,14 +11,13 @@
 
 hi :wave:, I'm Justin! 
 
-I have professional interests across 📊 data visualization, 📝 natural language processing, 🗣️ speech-to-text, ⚒ geoscience, 📂 open data, 💻 open source, and 🏢inner source. Previously, I've worked Data Scientist, Software Engineer, and Technical Program Manager roles as a <a href="https://github.com/JustinGOSSES/nasa-contractor-jobs-information">NASA contractor</a> and before that as <a href="https://justingosses.com/geology/">Geoscientist</a> for BP. Currently, I work for <a href="https://opensource.microsoft.com/">Microsoft</a> as a Senior Software Engineer (formerly program manager) focused on systems and processes that support thousands of developers who produce [open source](https://opensource.microsoft.com/) software.
+My professional interests can be described as "sharing at scale". I ensure code platforms are safe, compliant, and toil-free. Currently, I work for <a href="https://opensource.microsoft.com/">Microsoft</a> as a Senior Software Engineer (formerly program manager) focused on systems and processes that support thousands of developers who produce [open source](https://opensource.microsoft.com/) software. Previously, I've worked Data Scientist, Software Engineer, and Technical Program Manager roles as a <a href="https://github.com/JustinGOSSES/nasa-contractor-jobs-information">NASA contractor</a> and before that as <a href="https://justingosses.com/geology/">Geoscientist</a> for BP. 
+I have professional interests across 📊 data visualization, 📝 natural language processing, 🗣️ speech-to-text, ⚒ geoscience, 📂 open data, 💻 open source, and 🏢inner source. 
 
-<!-- I currently work as a NASA :rocket: contractor wearing many hats :tophat: Data Scientist, Software Engineer, and Technical Program Manager. Check out <a href="https://github.com/JustinGOSSES/nasa-contractor-jobs-information">this repo</a> with some things I've told people multiple times about finding a NASA contractor job.
- -->
 Most of the repos on here are side projects. Geoscience is a dominant trend in these repos, because it is an area where I have a lot of domain knowledge. However, I don't use it in my day job, so it makes for a nice dividing line between work & side projects.
 
 <!-- 
-Currently, I’m working on updates to the side projects below that 🔭 fill a missing gap in working with a certain kind of scientific data on the web:
+I maintain the two side projects below that fill a missing gap in working with a certain kind of scientific data on the web:
 - [`wellio`](https://github.com/JustinGOSSES/wellio.js) &mdash; library for converting well logs in LAS 2.0 format to JSON
 - [`wellioviz`](https://github.com/JustinGOSSES/wellioviz) &mdash; library for visualizing well logs on the web
 
